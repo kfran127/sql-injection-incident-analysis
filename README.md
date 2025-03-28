@@ -1,6 +1,8 @@
-# LetsDefend SOC165 - Possible SQL Injection Payload Detected EventID: 115 Writeup
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4928343a-31cf-4033-a166-3a77eafc74e1" alt="SOC140 - Phishing Mail Detected">
+</p>
 
-LetsDefend is an awesome platform for blue team learning, training, and practice!
+<h1>SOC165 - Possible SQL Injection Payload Detected EventID: 115 Writeup</h1>
 
 ## Alert Triggered!
 
